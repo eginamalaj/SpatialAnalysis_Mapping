@@ -15,11 +15,10 @@
 lspg<- c("ggplot2","rgdal","raster","classInt","RColorBrewer","ggspatial")
 lapply(lspg, require, character.only = TRUE)
 #
-# rm(list = ls())
-# Home
-setwd("C:/Users/Egina/Dropbox/_Work/Github/SpatialAnalysis")
+# Data 
+# 
+# look at data file provided with the code
 #
-# Data
 herb_kg<-read.csv("herbicide_kg.csv")
 #
 # Shapefile
