@@ -1,6 +1,6 @@
 # Spatial Analysis and Mapping with R
 
-This file contains an example on how R can be used for spatial analysis.
+This file contains an example of how R can be used for spatial analysis.
 
 The results are part of the publication:
 
